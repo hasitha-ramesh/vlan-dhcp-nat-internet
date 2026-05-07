@@ -227,7 +227,7 @@ ping 8.8.8.8         # Internet server
 ## Project Files
 
 ```
-project6-vlan-dhcp-nat-internet.pkt    # Packet Tracer topology
+vlan_dhcp_nat_internet.pkt    # Packet Tracer topology
 /images                                 # Screenshots
 README.md                               # This document
 ```
